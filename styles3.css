@@ -1,0 +1,63 @@
+* {
+	
+	margin: 0;
+	padding: 0;
+	
+}
+
+body {
+	
+	background:#E9DCC9;
+	text-align:center;
+	
+}
+
+img {
+	
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+.section-area {
+	
+	margin:20px;
+	padding:20px;
+}
+
+p {
+	
+	font-size:30px;
+	margin:20px;
+	font-weight:lighter;
+}
+
+
+h1 {
+	
+	text-transform:uppercase;
+	font-family:The Seasons;
+	margin:30px;
+	font-weight:bold;
+	
+}
+
+h2 {
+	
+	text-transform:uppercase;
+	font-family:The Seasons;
+	margin:20px;
+	font-weight:bold;
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
